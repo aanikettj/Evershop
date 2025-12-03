@@ -1,0 +1,11 @@
+{
+  "port": 3000,
+  "database": {
+    "host": "localhost",
+    "port": 5432,
+    "database": "my_evershop",
+    "user": "postgres",
+    "password": "jadhav7007"
+  },
+  "baseUrl": "http://localhost:3000"
+}
